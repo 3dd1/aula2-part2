@@ -1,0 +1,59 @@
+.ouro{
+    color: gold
+    ;
+}
+
+.prata{
+    color: gray;
+}
+
+.bronze{
+    color: rgb(211, 110, 16);
+}
+
+h1{
+    color: #c2dded ;
+    font-size: 30px;
+ 
+}
+
+h2{
+    color: #c2dded;
+    font-size: 30px;
+    
+}
+
+h3{
+    color: #8a9ee5;
+    font-size: 30px;
+    
+}
+
+h4{
+    color: #8a9ee5;
+    font-size: 20px;
+}
+
+.paragrafo{
+    color: white;
+    font-size: 20px;
+}
+
+body{
+    background-color:#1a203a ;
+}
+
+table{
+    color: azure;
+    background-color: #4e5b92;
+}
+a:hover{
+    color: #c2dded;
+}
+a{
+    color: #8a9ee5;
+}
+
+p::first-letter{
+    color: #c2dded;
+}
